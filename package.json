@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "unit-testing",
 	"main": "index.js",
-	"type": "module",
+	"type": "commonjs",
 	"scripts": {
 		"lint": "eslint .",
 		"test": "jest --coverage"
